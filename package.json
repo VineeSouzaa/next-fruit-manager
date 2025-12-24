@@ -17,6 +17,7 @@
     }
   },
   "dependencies": {
+    "flowbite-react": "^0.12.14",
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3"
@@ -28,12 +29,14 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "clsx": "^2.1.1",
     "commitizen": "^4.3.1",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^9",
     "eslint-config-next": "16.1.1",
     "husky": "^9.1.7",
     "prettier": "^3.7.4",
+    "tailwind-merge": "^3.4.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
