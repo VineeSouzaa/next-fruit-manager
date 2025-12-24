@@ -10,7 +10,7 @@ export default function ExpansiveRoundedCard({
   return (
     <div
       className={cn(
-        "bg-white rounded-2xl shadow-lg border border-slate-200/60 p-8 mb-10 hover:m-1 transition-all duration-300",
+        "bg-white rounded-2xl shadow-lg border border-slate-200/60 p-8 mb-10",
         className
       )}
     >

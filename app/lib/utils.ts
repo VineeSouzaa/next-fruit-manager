@@ -5,4 +5,5 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-export const defaultIconSize = "20px";
+export const defaultIconHeith = "20px";
+export const defaultIconWidth = "20px";
